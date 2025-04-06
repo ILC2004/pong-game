@@ -12,3 +12,7 @@ Use the keyboard to control paddles:
  Player 1: W / S
  Player 2: ↑ / ↓
  First to 11 points (with 2-point lead) wins!
+
+[Start Menu](pong1.png)
+[PvP Gameplay](pong2.png)
+[Winning Message](pong3.png)
