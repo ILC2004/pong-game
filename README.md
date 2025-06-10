@@ -7,6 +7,21 @@ You can play:
 What You Need
 - Python 3
 - Pygame
+
+ How to Install and Run the Game
+
+  Download and install Python 3 from the official website:
+  https://www.python.org/downloads
+
+  Open Command Prompt or Terminal and install Pygame by typing:
+  pip install pygame
+
+  Download or clone this repository to your computer.
+
+  Navigate to the folder where the pong game file is located.
+
+  Run the game by typing:
+  python pong.py
   
 Use the keyboard to control paddles:
  Player 1: W / S
